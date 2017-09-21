@@ -10,6 +10,8 @@ here's a guide you might find useful.
 
 ### Clock time!
 
+_or why does it think this HTTPS certificate is invalid?!?_
+
 Raspberry Pi computers don't come with a battery-backed clock, so when they turn on they
 have no idea what the time is - they have to connect to an [NTP server](https://en.wikipedia.org/wiki/Network_Time_Protocol)
 in order to find out what the time is. Here in the Guardian offices, we've mysteriously
