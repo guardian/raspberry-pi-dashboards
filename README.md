@@ -11,7 +11,7 @@ here's a guide you might find useful.
 Getting onto the Guest network is easy, and might be sufficient for you, if you can set your dashboards
 up right (eg. using Librato's shareable read-only dashboard links, aka [_Shared Spaces_](https://www.librato.com/docs/kb/visualize/faq/shared_spaces/)).
 
-For getting on to the _internal_ network, see [this doc](https://docs.google.com/a/guardian.co.uk/document/d/1n8rKaCxa_eAgKSbsAhuX3Q9cxy72zgQIMGMjo9cZ6tw/edit?usp=sharing).
+For further details on networking, and how to get on to the _internal_ network, see [this doc](https://docs.google.com/a/guardian.co.uk/document/d/1n8rKaCxa_eAgKSbsAhuX3Q9cxy72zgQIMGMjo9cZ6tw/edit?usp=sharing).
 
 ### Clock time!
 
