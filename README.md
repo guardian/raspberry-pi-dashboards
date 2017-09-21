@@ -8,7 +8,7 @@ here's a guide you might find useful.
 
 ### Getting on to the network
 
-### Coping with TIME
+### Clock time!
 
 ## Setting up Chromium in kiosk mode
 
