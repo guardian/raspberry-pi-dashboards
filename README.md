@@ -1,10 +1,12 @@
 # Raspberry Pi Dashboards
 
-There are a few of these around the office - a Raspberry Pi hooked up to a spare monitor, 
-showing useful information to the team, but there can be a few hiccups getting them going,
-here's a guide you might find useful.
+There are a few Raspberry Pi dashboards (a.k.a 'radiators') around the office - a Raspberry Pi
+hooked up to a spare monitor, showing useful information to the team, but there can be a few
+hiccups getting them going, here's a guide you might find useful.
 
 ## Setting up the Raspbian operating system
+
+There any many custom operating systems for the Raspberry Pi, including [FullPageOS](https://github.com/guysoft/FullPageOS) (sadly currently distributed over insecure HTTP) which are tuned for dashboard/kiosk use, but as it turns out these days the default [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) operating system can work well as a dashboard (mostly because of Chromium support for 'kiosk mode').
 
 ### Getting on to the network
 
@@ -30,3 +32,8 @@ bit of configuration to get it working but after that it's one less thing to wor
 
 ## Setting up Chromium in kiosk mode
 
+There are several good references for this, including:
+
+* https://github.com/elalemanyo/raspberry-pi-kiosk-screen#chromium-browser
+
+nano ~/.config/lxsession/LXDE-pi/autostart
