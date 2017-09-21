@@ -17,7 +17,7 @@ For further details on networking, and how to get on to the _internal_ network, 
 
 ### Clock time!
 
-_or: why does it think this HTTPS certificate is invalid?!?_
+_or: why does the Raspberry Pi think this HTTPS certificate is invalid?!?_
 
 Raspberry Pi computers don't come with a battery-backed clock, so when they turn on they
 have no idea what the time is - they have to connect to an [NTP server](https://en.wikipedia.org/wiki/Network_Time_Protocol)
