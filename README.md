@@ -29,9 +29,11 @@ seen Raspberry Pi devices fail to do this - because of network or firewall reaso
 and so they don't know the correct time, and when they try to visit HTTPS pages
 they declare the certificate invalid because it seems to have been signed in the future!
 
-One way of getting round this problem is to add a [battery-packed clock](https://shop.pimoroni.com/products/adafruit-pirtc-pcf8523-real-time-clock-for-raspberry-pi)
+One way of getting round this problem is to add a [battery-backed clock](https://shop.pimoroni.com/products/adafruit-pirtc-pcf8523-real-time-clock-for-raspberry-pi)
 to the Raspberry Pi. We've done this successfully on the Data Technology team, there's a small
 bit of configuration to get it working but after that it's one less thing to worry about!
+
+![raspberrypibatterybackedclock](https://user-images.githubusercontent.com/52038/30706462-503a4d64-9ef0-11e7-8987-e2ef56bb6e8c.jpg)
 
 ## Setting up Chromium in kiosk mode
 
