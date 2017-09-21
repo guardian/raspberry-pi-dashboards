@@ -5,6 +5,7 @@ hooked up to a spare monitor, showing useful information to the team, but there 
 hiccups getting them going, here's a guide you might find useful.
 
 ## Setting up the Raspbian operating system
+![raspbian_logo](https://user-images.githubusercontent.com/52038/30706646-f012e490-9ef0-11e7-8be0-dca3524fbd0e.png)
 
 There any many custom operating systems for the Raspberry Pi, including [FullPageOS](https://github.com/guysoft/FullPageOS)
 (sadly currently distributed over insecure HTTP) which are tuned for dashboard/kiosk use, but it turns out that the default 
