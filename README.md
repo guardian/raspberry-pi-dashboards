@@ -6,7 +6,10 @@ hiccups getting them going, here's a guide you might find useful.
 
 ## Setting up the Raspbian operating system
 
-There any many custom operating systems for the Raspberry Pi, including [FullPageOS](https://github.com/guysoft/FullPageOS) (sadly currently distributed over insecure HTTP) which are tuned for dashboard/kiosk use, but as it turns out these days the default [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) operating system can work well as a dashboard (mostly because of Chromium support for 'kiosk mode').
+There any many custom operating systems for the Raspberry Pi, including [FullPageOS](https://github.com/guysoft/FullPageOS)
+(sadly currently distributed over insecure HTTP) which are tuned for dashboard/kiosk use, but it turns out that the default 
+[Raspbian](https://www.raspberrypi.org/downloads/raspbian/) operating system can work fine for these purposes
+(mostly because of Chromium support for 'kiosk mode').
 
 ### Getting on to the network
 
